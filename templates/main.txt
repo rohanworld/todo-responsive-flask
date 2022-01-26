@@ -1,0 +1,4 @@
+if flask module not found comes means: 
+.\env\Scripts\activate.ps1
+
+then python .\app.py
